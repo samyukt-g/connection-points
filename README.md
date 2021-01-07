@@ -1,4 +1,4 @@
-# connection-points
+# Connection-Points
 There is one starting point. Each point is connected to 2 other points. There are a total of 20 points (including the starting point). This is a code to find out the shortest route between any two points
 
 STARTING POINT: [A]
