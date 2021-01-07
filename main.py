@@ -35,7 +35,7 @@ if distanceLr > distanceLn and distanceLr <= 20 and distanceLn <= 20:
 elif distanceLn > distanceLr and distanceLr <= 20 and distanceLn <= 20:
     print('Prefered route:')
     distanceInLr()
-elif distanceLr == distanceLn:
+elif distanceLr == distanceLn and distanceLr < 20 and distanceLn < 20:
     print('Both routes work.')
 elif distanceLr <= 20 or distanceLn <= 20:
     print('Error!')
